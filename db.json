@@ -61,5 +61,5 @@
       "isSuper": true
     }
   ],
-  "blacklists/customers": []
+  "customers": []
 }
