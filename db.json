@@ -61,12 +61,5 @@
       "isSuper": true
     }
   ],
-  "blacklists/customers": {
-  "customers": [],
-  "extra": {
-    "page": "1",
-    "pageSize": "10",
-    "totalItems": "0"
-  }
-}
+  "blacklists/customers": []
 }
